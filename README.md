@@ -35,7 +35,7 @@ $ ruby blackjack.rb
 ## 作者
  
 [大羽　健文:Twitter](https://twitter.com/dan_pro_man)  
-mail to: dan.pro.man24@gmail.com
+mail to: t70.takefumi.ohba@gmail.com
  
 ## ライセンス
 This project is licensed free.  
